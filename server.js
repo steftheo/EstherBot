@@ -1,4 +1,4 @@
-var Botkit = require('botkit')
+var Botkit = require('smooch-bot')
 
 var accessToken = process.env.FACEBOOK_PAGE_ACCESS_TOKEN
 var verifyToken = process.env.FACEBOOK_VERIFY_TOKEN
@@ -16,7 +16,6 @@ var controller = Botkit.facebookbot({
 var bot = controller.spawn()
 
 controller.setupWebserver(port, function (err, webserver) {
-  ca: fs.readFileSync(`facebook/snapfilta`)
   if (err) return console.log(err)
   controller.createWebhookEndpoints(webserver, bot, function () {
     console.log('Ready Player 1')
