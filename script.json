@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi I'm StefanBot, a personalized bot for Stefan Theofilos' Resume!  I can only respond to keywords, so would you liket dive into his EDUCATION, PORTFOLIO, or ABOUT him?",
+    "HI": "Hi I'm StefanBot, a personalized bot for Stefan Theofilos' Resume!  I can only respond to keywords, so would you liket dive into his EDUCATION, PORTFOLIO, or ABOUT him?",
     "ABOUT": "Stefan is 24 years old and currently lives in Nashville, TN.  He was born in Memphis, TN and grew up in Palm Beach Gardens, FL.  He loves music, tech, and not-so-long walks on the beach.",
     "EDUCATION": "He recieved a BBA at Belmont University and was a double-major in Entrepreneurship & Music Business.  He is also completing the Front-End Engineering course at The Iron Yard Academy to learn the coding side of design",
     "PORTFOLIO": "Stefan's portfilio can be seen at stefan.theofilos.me.  He designs, APPS, WEBSITES, and SNAPCHAT FILTERS.",
@@ -8,5 +8,5 @@
 
 
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, StefanBot is back."
 }
