@@ -1,10 +1,13 @@
 {
     "HI": "Hi I'm StefanBot, a personalized bot for Stefan Theofilos' Resume!  I can only respond to keywords, so would you like to dive into his EDUCATION, PORTFOLIO, or ABOUT him?",
-    "ABOUT": "Stefan is 24 years old and currently lives in Nashville, TN.  He was born in Memphis, TN and grew up in Palm Beach Gardens, FL.  He loves music, tech, and not-so-long walks on the beach.",
+    "ABOUT": "Stefan is 24 years old and currently lives in Nashville, TN.  He grew up in Palm Beach Gardens, FL.  He loves music, DESIGN, tech, startups, and not-so-long walks on the beach.",
+    "DESIGN": "His first taste of graphic design came when he would create the album artwork for his band and started to get into app design when he was a Junior at Belmont University.  With many app ideas of his own and no knowledge of coding, he bought Sketch 3 and taught himself the basics of iOS and Android Design.  A year later he would branch out and freelance, being hired by both individuals and companies to design their respective apps.",
     "EDUCATION": "He recieved a BBA at Belmont University and was a double-major in Entrepreneurship & Music Business.  He is also completing the Front-End Engineering course at The Iron Yard Academy to learn the coding side of design",
-    "PORTFOLIO": "Stefan's portfilio can be seen at stefan.theofilos.me.  He designs, APPS, WEBSITES, and SNAPCHAT FILTERS.",
+    "PORTFOLIO": "stefan.theofilos.me is the link to his portfolio. He designs, APPS, WEBSITES, as well as custom SNAPCHAT FILTERS.",
     "APPS": "He has designed apps that range from tinder-like games to location apps.  A couple of his standouts are Splitit, which is a point-of-sale group payment app and Sonotize, which is a music player that rewards you for listening to music.  All can be seen at stefantheofilos.me",
-    "WEBSITES": "He designed his portfolio site, stefantheofilos.me, as well as snapdesign.io",
+    "WEBSITES": "Some websites he's designed include stefantheofilos.me and snapdesign.io.  Some of the languages he knows are HTML/CSS and Javascript/EmberJS.",
+    "SNAPCHAT FILTERS": "Stefan started to design custom Snapchat filters in Early 2016.  His first filter was for his little brother's Fraternity Formal.  He launched SnapDesign, which is a platform where others can order custom filters for $35 each.",
+    "COOL": "Thanks friend!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, StefanBot is back."
 }
